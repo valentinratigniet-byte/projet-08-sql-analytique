@@ -9,6 +9,17 @@
 
 ## 🔎 Index « question → requête »
 
+```mermaid
+flowchart TD
+    BASE[("Base Projet 07")] --> F1["01 · Ventes & revenus<br/>Q1-Q4"]
+    BASE --> F2["02 · Fonctions fenêtres<br/>Q5-Q8"]
+    BASE --> F3["03 · Cohortes & rétention<br/>Q9-Q10"]
+    BASE --> F4["04 · RFM / LTV<br/>Q11-Q13"]
+    BASE --> F5["05 · SQL avancé<br/>Q14-Q16"]
+
+    style BASE fill:#E4A93C,color:#1a1a1a
+```
+
 | # | Question métier | Technique SQL | Fichier |
 |---|---|---|---|
 | Q1 | CA encaissé et commandes payées par mois ? | `date_trunc` + agrégats | [01](queries/01_ventes_revenus.sql) |
