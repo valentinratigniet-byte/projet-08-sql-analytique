@@ -1,5 +1,7 @@
 # Projet 08 — Bibliothèque de requêtes SQL analytiques
 
+[![CI](https://github.com/valentinratigniet-byte/projet-08-sql-analytique/actions/workflows/ci.yml/badge.svg)](https://github.com/valentinratigniet-byte/projet-08-sql-analytique/actions/workflows/ci.yml)
+
 > **Quelle requête pour quelle question métier ?** 16 requêtes analytiques
 > commentées, chacune répondant à une vraie question business, **exécutées et
 > vérifiées** sur la base e-commerce du [Projet 07](https://github.com/valentinratigniet-byte/projet-07-base-ecommerce).
