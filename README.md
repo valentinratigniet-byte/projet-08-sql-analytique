@@ -91,5 +91,5 @@ projet-08-sql-analytique/
 
 ---
 
-*Projet 08 du [Portfolio Data](../). S'appuie sur le Projet 07. Prochaine brique :
+*Projet 08 du [Portfolio Data](https://github.com/valentinratigniet-byte). S'appuie sur le Projet 07. Prochaine brique :
 Projet 09 — dashboard exécutif Power BI sur cette même base.*
