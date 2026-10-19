@@ -9,6 +9,8 @@
 > Objectif : prouver la maîtrise du SQL avancé (fonctions fenêtres, CTE
 > récursives, cohortes, RFM) au-delà du simple `SELECT ... WHERE`.
 
+🗺️ **[Schéma du dépôt (GitDiagram)](https://gitdiagram.com/valentinratigniet-byte/projet-08-sql-analytique)** : vue d'ensemble générée automatiquement à partir du code.
+
 ## 🔎 Index « question → requête »
 
 ```mermaid
